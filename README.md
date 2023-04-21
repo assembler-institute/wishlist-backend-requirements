@@ -194,7 +194,7 @@ Los requisitos funcionales describen las funcionalidades que el sistema debe ofr
 	-   Si el usuario no tiene ninguna tarea con ese estado, el servidor responde con un código 200 (OK) y devuelve una lista vacía
     
 
-### Caso de uso 9: Autenticación de Usuario 🔐
+### [ Opcional ]Caso de uso 9: Autenticación de Usuario 🔐
 
 -   **Actor:** Usuario
     
